@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Penultimate SMU Undergraduate working towards a Bachelor of Science (Information Systems - Business Analytics) and a Bachelor of Accountancy 😊
+I am a Penultimate SMU Undergraduate studying for a Bachelor of Science (Information Systems - Business Analytics) and a Bachelor of Accountancy 😊
 
 - 🔭 I’m currently working on my AWS Solutions Architect Certification
 - 🌱 I’m currently learning React to develop web applications
