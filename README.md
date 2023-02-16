@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a Penultimate SMU Undergraduate studying for a Bachelor of Science (Information Systems - Business Analytics) and a Bachelor of Accountancy 😊
+I am a Penultimate SMU Undergraduate pursuing a double degree in Bachelor of Science (Information Systems - Business Analytics) and a Bachelor of Accountancy 😊
 
-- 🔭 I’m currently working on my AWS Solutions Architect Certification
-- 🌱 I’m currently learning React to develop web applications
+- 🔭 I’m currently working on my Final Year Project
+- 🌱 I’m currently exploring automation solutions in the world of Audit
 - ⚡ Fun fact: I have been dancing for 12 years 💃🏻
 - 📫 How to reach me: cheryl.goh.2020@smu.edu.sg
 
