@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a Penultimate SMU Undergraduate pursuing a double degree in Bachelor of Science (Information Systems - Business Analytics) and a Bachelor of Accountancy 😊
+I am a Penultimate SMU Undergrad and I enjoy coding alot ☃️
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently exploring ... -->
+<!-- - 🔭 I’m currently working on   wassup
+- 🌱 I’m currently exploring         I SEE U -->
 - ⚡ Fun fact: I have been dancing for 12 years 💃🏻
 - 📫 How to reach me: cheryl.goh.2020@smu.edu.sg
 
