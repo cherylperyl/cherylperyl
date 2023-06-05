@@ -7,6 +7,8 @@ I am a Penultimate SMU Undergrad and I enjoy coding alot ☃️
 - ⚡ Fun fact: I have been dancing for 12 years 💃🏻
 - 📫 How to reach me: cheryl.goh.2020@smu.edu.sg
 
+Meanwhile, check out some of the projects that I have passionately worked on (below 👇🏽)
+
 <!--
 **cherylperyl/cherylperyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
