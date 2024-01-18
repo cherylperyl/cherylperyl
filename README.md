@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Penultimate SMU Undergrad and I enjoy coding alot ☃️
+I am a Final Year SMU Undergrad and I enjoy coding alot ☃️
 
 <!-- - 🔭 I’m currently working on   wassup
 - 🌱 I’m currently exploring         I SEE U -->
